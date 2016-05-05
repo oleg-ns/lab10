@@ -1,0 +1,56 @@
+body {
+	width:677px;
+}
+h1 {
+	text-align:right;
+	color:orange;
+}
+p:first-letter{
+	font-size:30px;
+	color:red;
+	font-weight:bold;
+}
+em {
+	color:white;
+	background-color:green;
+	text-decoration:italic;
+	font-weight:bold;
+}
+ #allotment h2 {
+	color:orange;
+}
+ #allotment li {
+	 font-weight:bold;
+ }
+ #allotment .fruits-list {
+	 color:gray;
+ }
+  #allotment .vegetables-list {
+	 color:red;
+ }
+ #warehouse h2 {
+	 color:blue;
+ }
+ #warehouse li {
+	 font-weight:bold;
+ }
+ #warehouse .fruits-list {
+	 color:green;
+ }
+  #warehouse .vegetables-list {
+	 color:red;
+ }
+ thead {
+	 font-weight:bold;
+	 text-align:center;
+ }
+ tbody {
+	 background-color:green;
+	 color:white;
+	 text-align:center;
+ }
+ tbody tr>td:first-child {
+	color:orange;
+	background-color:white;
+	text-align:left;
+ }
