@@ -23,13 +23,6 @@ header a:hover {
 	color:blue;
 	border-bottom:1px solid blue;	
 }
-.body1 {
-	position:relative;
-	top:0px;
-	left:0px;
-	margin-top:0px;
-	
-}
 .myriad {
 	color:white;
     font-family:myriad pro, sans-serif;
@@ -52,11 +45,8 @@ header a:hover {
 	position:relative;
 	color:white;
 	text-align:center;
-	margin-top:00px;
-	z-index:1;
 }
-.semibolt {
-	
+.semibolt {	
 	font-family:semibolt;
 	position:relative;
 	left:50%;
@@ -151,32 +141,4 @@ li:nth-child(even) {
   margin-left:-20px;
   background: url('adress2.jpg') no-repeat;
   background-position: -130px 0px;
-}
-/*.icon.twitter { background-position: -60px 0px; }
-
-.icon.in { background-position: -130px 0px; }
-
-
-/*a{
-	margin-top:0px;
-	font-family:impact;
-	background:#a64dff;	
-	display:inline-block;
-	height:35px;
-	color:white;
-	font-size:20px;
-	padding-left:10px;
-	padding-right:10px;
-	padding-top:10px;
-	text-decoration:none;
-}
-a:hover {
-	display:inline-block;
-	background:#eeeeee;
-	color:#9ea1b4;
-	font-size:20px;
-	height:35px;
-	padding-left:10px;
-	padding-right:10px;
-	border-bottom: 1px outset grey;
 }
